@@ -1,0 +1,66 @@
+AQUAE   L:5
+Actinomycetales G:1     L:4
+Amoebozoa       L:1
+Archaea G:1     L:1
+BACCR   G:4     L:1
+BACSU   G:2
+BACTN   G:2     L:3
+BATDJ   L:1
+BEP_clade       G:1
+BRADU   L:3
+Bacilli G:2
+Bacillus        G:1     L:1
+Basidiomycota   L:1
+CHLAA   L:5
+CHLTR   L:4
+CLOBH   G:2     L:2
+COXBU   L:5
+Cyanobacteria   L:3
+DEIRA   G:1     L:3
+DICTD   L:3
+ENTHI   G:3
+Enterobacteriaceae      G:2
+Eubacteria      G:3
+Eumetazoa       L:1
+Euryarchaeota   L:1
+Excavates       L:1
+FUSNN   G:1     L:4
+Firmicutes      L:1
+Fornicata-Parabasalids  L:1
+Fungi   L:1
+GEOSL   L:4
+Gammaproteobacteria     G:1
+HAEIN   L:3
+KORCO   L:2
+LEIMA   G:4
+LEPIN   L:4
+LUCA    G:1     R:1
+METJA   L:1
+MYCTU   L:1
+Metazoa-Choanoflagellida        L:1
+PHYIT   L:1
+PHYPA   G:1
+PLAF7   G:2     L:1
+POPTR   G:1
+PSEAE   L:5
+Pezizomycotina-Saccharomycotina L:1
+Proteobacteria  L:1
+RHOBA   L:5
+SALTY   G:2
+SCHPO   G:1
+SHEON   L:5
+SOYBN   G:1
+STAA8   G:1     L:1
+STRCO   G:1
+STRR6   G:3     L:2
+SYNY3   L:1
+Stramenopiles   L:1
+TETTS   L:1
+THAPS   G:1
+THEMA   L:4
+THEYD   L:5
+TRYB2   G:1
+VIBCH   L:2
+Viridiplantae   L:1
+XANCP   L:5
+YERPE   L:3
