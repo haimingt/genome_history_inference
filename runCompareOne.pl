@@ -5,12 +5,12 @@ unless ($pthrlimit){
   die "provide PTHR family id\n";
 }
 
-my $p12dir = "/dir/to/PANTHER12_treeAsum";
-my $treefile = "$p12dir/$pthrlimit.newick";
-my $tabfile = "$p12dir/$pthrlimit.tab";
+my $s1tree = "./PANTHER12.newick"; #location of the PANTHER12 species tree
+my $p12dir = "/dir/to/PANTHER12_treetap"; 
+my $treefile = "$p12dir/$pthrlimit.newick"; #location of the PANTHER12 gene trees
+my $tabfile = "$p12dir/$pthrlimit.tab"; #location of the tab file for gene trees
 
-my $outfile = "$pthrlimit.test";
-my $outtree = "$pthrlimit.newick";
+my $outfile = "$pthrlimit.test"; # location of the output file
 
 treeCompare($treefile,$tabfile,$s1tree,$outfile,$check);
 
