@@ -15,7 +15,6 @@ package HAIMING::GENEHISTORY::compareOne;
 use strict;
 use warnings;
 use Bio::TreeIO;
-use HAIMING::ToNewick;
 use Data::Dumper;
 
 require Exporter;
