@@ -1,6 +1,10 @@
 # genome_history_inference
 Scripts to infer the evolutionary history of gene gains and losses  by comparing phylogenetic gene tree with a reference species tree
 
+PREREQUISITES:
+-Perl 
+-Perl module BioPerl http://bioperl.org/
+-Add modules HAIMING/GENEHISTORY/CompareOne.pm and HAIMING/GENEHISTORY/Summarize.pm to PATH
 
 Files in this project:
 
