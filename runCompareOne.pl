@@ -1,6 +1,6 @@
 use HAIMING::GENEHISTORY::compareOne;
 
-my $ptherlimit = shift; # perl runCompareOne.pl PTHR10000
+my $pthrlimit = shift; # perl runCompareOne.pl PTHR10000
 unless ($pthrlimit){
   die "provide PTHR family id\n";
 }
